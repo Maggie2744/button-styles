@@ -11,10 +11,14 @@ html {
 div {
   padding: .5rem;
   text-align: center;
+  margin: .4em;
 }
 
 a {
   text-decoration: none;
+  padding: .4em .75em .5em;
+  border-radius: 8px;
+  border-width: 3px;
 }
 
 .btn {
@@ -29,6 +33,7 @@ a {
 
 .btn-ghost {
   color: #000;
+  border: .15em solid #000;
 }
 
 .btn-warning {
