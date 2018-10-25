@@ -17,17 +17,20 @@ a {
 }
 
 .btn {
-
+  background-color: #000;
+  color: #fff;
 }
 
 .btn-subtle {
-
+  background-color: #ccc;
+  color: #fff;
 }
 
 .btn-ghost {
-
+  color: #000;
 }
 
 .btn-warning {
-
+  background-color: #f33;
+  color: #fff;
 }
