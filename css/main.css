@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   font: normal 100%/1.5 sans-serif;
+  font-size: 1.125rem;
 }
 
 *, *::before, *::after {
@@ -33,4 +34,10 @@ a {
 .btn-warning {
   background-color: #f33;
   color: #fff;
+}
+
+.btn-small {
+}
+
+.btn-big {
 }
