@@ -36,8 +36,10 @@ a {
   color: #fff;
 }
 
-.btn-small {
+.two {
+  font-size: .875rem;
 }
 
-.btn-big {
+.three {
+  font-size: 1.5rem;
 }
