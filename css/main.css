@@ -18,7 +18,7 @@ a {
   text-decoration: none;
 }
 
-.btn {
+.btn, .btn-2, .btn-3 {
   background-color: #000;
   color: #fff;
   padding: .4em .75em .5em;
@@ -26,7 +26,7 @@ a {
   border: solid #000;
 }
 
-.btn-subtle {
+.btn-subtle, .btn-subtle-2, .btn-subtle-3 {
   background-color: #ccc;
   color: #fff;
   padding: .4em .75em .5em;
@@ -34,14 +34,14 @@ a {
   border: 3px solid #ccc;
 }
 
-.btn-ghost {
+.btn-ghost, .btn-ghost-2, .btn-ghost-3 {
   color: #000;
   padding: .4em .75em .5em;
   border-radius: 8px;
   border: 3px solid #000;
 }
 
-.btn-warning {
+.btn-warning, .btn-warning-2, .btn-warning-3 {
   background-color: #f33;
   color: #fff;
   padding: .4em .75em .5em;
