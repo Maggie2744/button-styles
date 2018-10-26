@@ -70,4 +70,5 @@ div {
 
 .border {
   border: 3px solid #000;
+  margin-top: -.1rem;
 }
