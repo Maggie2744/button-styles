@@ -77,3 +77,7 @@ a {
   background-color: #933;
   border-color: #933;
 }
+
+.regular {
+  text-decoration: none;
+}
