@@ -9,7 +9,7 @@ html {
 }
 
 div {
-  padding: .5em;
+  padding: .2em;
   text-align: center;
   margin: .5em;
 }
@@ -19,35 +19,23 @@ div {
   color: #fff;
   padding: .4em .75em .5em;
   border-radius: 8px;
-  border: solid #000;
   text-decoration: none;
+  display: inline-block;
 }
 
 .btn-subtle {
   background-color: #ccc;
   color: #fff;
-  padding: .4em .75em .5em;
-  border-radius: 8px;
-  border: 3px solid #ccc;
-  text-decoration: none;
 }
 
 .btn-ghost {
   background-color: #fff;
   color: #000;
-  padding: .4em .75em .5em;
-  border-radius: 8px;
-  border: 3px solid #000;
-  text-decoration: none;
 }
 
 .btn-warning {
   background-color: #f33;
   color: #fff;
-  padding: .4em .75em .5em;
-  border-radius: 8px;
-  border: 3px solid #f33;
-  text-decoration: none;
 }
 
 .btn-small {
