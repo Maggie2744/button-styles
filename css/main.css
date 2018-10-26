@@ -42,6 +42,8 @@ div {
 .btn-small {
   font-size: .8rem;
   margin: auto;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
 }
 
 .btn-big {
