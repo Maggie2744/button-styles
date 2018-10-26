@@ -18,7 +18,7 @@ div {
 .btn {
   background-color: #000;
   color: #fff;
-  padding: .5em .75em .45em;
+  padding: .4em .75em .45em;
   border-radius: 8px;
   text-decoration: none;
   display: inline-block;
@@ -70,5 +70,5 @@ div {
 }
 
 .border {
-  border: 3px solid #000;
+  border: 2.5px solid #000;
 }
