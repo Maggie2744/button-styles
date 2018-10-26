@@ -66,3 +66,7 @@ div {
   background-color: #933;
   border-color: #933;
 }
+
+.border {
+  border: 3px solid #000;
+}
