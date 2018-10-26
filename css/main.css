@@ -49,6 +49,8 @@ div {
 .btn-big {
   font-size: 1.4rem;
   margin: auto;
+  padding-top: .35em;
+  padding-bottom: .35em;
 }
 
 .btn:hover {
