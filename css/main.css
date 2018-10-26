@@ -41,11 +41,12 @@ div {
 
 .btn-small {
   font-size: .8rem;
-  margin: .01rem;
+  margin: auto;
 }
 
 .btn-big {
   font-size: 1.4rem;
+  margin: auto;
 }
 
 .btn:hover {
